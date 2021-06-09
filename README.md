@@ -7,7 +7,7 @@ in order to get this to work you will need to configure the server.login and ser
 
 The configuration is as follows:
 
-[line 81]: <youremail@gmail.com> - as the smpt server is running gmail you will need to use a gmail for this to work, enter your gmail account here.
+[line 81]: <youremail@gmail.com> - as the smtp server is running gmail you will need to use a gmail for this to work, enter your gmail account here.
 [line 81]: <YourAppKeyOrEmailPassword> - using gmail we can generate app keys, in order for this to work you will need to generate one from your gmail account settings
 [line 82]: <yourEmail@gmail.com> - this defines the sender email that the the recipient will see. put your sending email here
 [line 82]: <recipientEmail@domain.com> - put the recipients email here, this is the person receiving the request by email
